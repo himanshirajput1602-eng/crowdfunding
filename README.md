@@ -30,4 +30,5 @@ To democratize fundraising by creating a trustless, transparent, and accessible 
 - **Governance Token**: Introduce platform governance tokens for community-driven decision making
 
 ## Contract Details
-0x28536bD40FB575F9dC71cAB3fCf350fA701B3B77
+0xd9145CCE52D386f254917e481eB44e9943F39138
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/518fae48-6210-4ecf-bbd6-6669de6bfc41" />
